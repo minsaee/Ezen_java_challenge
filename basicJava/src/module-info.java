@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Corday
+ *
+ */
+module basicJava {
+}
